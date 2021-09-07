@@ -5,7 +5,7 @@
 My code is completed in Swift. It may not run completely. I am using the sentimentScore theme that is bundled with Swift.
 
 ## Explanation
-I researched into how how swift runs alongside the sentimentScore theme, it is declared in line 20. 
+I researched into how how swift runs alongside the sentimentScore theme, it is declared in line 20. The theme does a majority of the calculations.
 
 
 ## [](https://github.com/ACM-Research/Coding-Challenge-S21#question-one)Sources
