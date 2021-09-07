@@ -11,11 +11,11 @@ I researched into how how swift runs alongside the sentimentScore theme, it is d
 ## [](https://github.com/ACM-Research/Coding-Challenge-S21#question-one)Sources
 
 
-[Source 1 - Rohan.rocks/acm-s1](Rohan.rocks/acm-s1) 
+[Source 1 - Rohan.rocks/acm-s1](https://Rohan.rocks/acm-s1) 
 
-[Source 2 - Rohan.rocks/acm-s2](Rohan.rocks/acm-s2) 
+[Source 2 - Rohan.rocks/acm-s2](https://Rohan.rocks/acm-s2) 
 
-[Source 3 - Rohan.rocks/acm-s3](Rohan.rocks/acm-s3) 
+[Source 3 - Rohan.rocks/acm-s3](https://Rohan.rocks/acm-s3) 
 
 
 
